@@ -1,0 +1,4 @@
+Excel Automation Tool es una herramienta de línea de comandos desarrollada en Python para automatizar el procesamiento de archivos Excel. 
+Permite validar la estructura y los tipos de datos, limpiar registros inválidos, analizar información de ventas y generar reportes automáticos en formato .xlsx, simulando flujos de trabajo reales utilizados en entornos corporativos.
+Para usar la herramienta es necesario contar con Python instalado, colocar el archivo Excel de entrada en una ruta accesible y ejecutar el programa desde la terminal indicando el archivo de entrada y el de salida mediante 
+los parámetros --input y --output, el sistema validará las columnas obligatorias, limpiará los datos inválidos, generará un reporte Excel con la información procesada y, si existen errores, creará un archivo adicional con el detalle de los mismos.
